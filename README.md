@@ -1,5 +1,26 @@
 # surecheck---prototype
- SureCheck is a prototype fake product verification system designed to help consumers identify whether a product is genuine or counterfeit. The system allows users to scan a QR code or enter a product ID, which is then checked against a product database. Based on verification rules such as product availability, activation status, and scan count, the system displays whether the product is genuine or fake. This helps improve consumer trust, reduce counterfeit products in the market, and enhance product safety. The prototype demonstrates how digital verification systems can be used to prevent the circulation of fake products.
-// CODE //
+  # SureCheck – Product Authenticity Verification Prototype
 
+SureCheck is a prototype application that helps users verify whether a product is genuine or fake using QR codes or product IDs. The system checks product details from a database and provides instant verification results.
+
+## Problem Statement
+Counterfeit products are a major problem in today's market. Consumers often cannot reliably verify whether a product is genuine or fake at the time of purchase. Existing methods like QR codes and holograms can be copied, leading to financial loss and safety risks.
+
+## Proposed Solution
+SureCheck provides a simple verification system where users can scan a product QR code or enter a product ID. The system checks the product information stored in a database and determines whether the product is genuine or fake.
+
+## Features
+- QR code / Product ID verification
+- Duplicate scan detection
+- Simple and user-friendly interface
+- Prototype QR scanning animation
+- Displays product authenticity result
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Project Type
+Prototype developed for the **Product Authenticity Challenge**.
  
